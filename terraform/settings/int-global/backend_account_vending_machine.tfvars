@@ -1,0 +1,5 @@
+region         = "us-east-2"
+bucket         = "tf-state-557071074234-us-east-2"
+dynamodb_table = "tf-state-557071074234-us-east-2"
+key            = "account-vending-machine/int-global/us-east-2/account_vending_machine.tfstate"
+profile        = "557071074234_UserFull"
